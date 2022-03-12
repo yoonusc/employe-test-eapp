@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Niyas/Documents/download1/android-MVVM-project-template-master/android-MVVM-project-template-master/app/src/main/res/layout/fragment_user_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Niyas/Documents/download1/android-MVVM-project-template-master/android-MVVM-project-template-master/app/src/main/res/layout/fragment_user_list.xml" value="0.1" />
+        <entry key="..\:/Users/Niyas/Documents/download1/android-MVVM-project-template-master/android-MVVM-project-template-master/app/src/main/res/layout/item_post.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Niyas/Documents/download1/android-MVVM-project-template-master/android-MVVM-project-template-master/app/src/main/res/layout/item_user.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/howettl/mvvm/data/model/Employnees.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
